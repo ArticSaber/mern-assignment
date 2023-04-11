@@ -1,0 +1,9 @@
+.h-tags {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: auto;
+  margin-top: 13rem;
+  gap: 2rem;
+}

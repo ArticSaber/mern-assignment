@@ -1,0 +1,37 @@
+.main-cont{
+}
+
+.calculator {
+    margin-top: 10rem;
+    border: 2px solid #ccc;
+    border-radius: 20px;
+    width: 18rem;
+    padding: 2rem;
+    background-color: rgba(225, 218, 222, 0.4);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+
+.display {
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 1rem;
+    height: 15px;
+    background-color: #1a1a1a;
+}
+button {
+    margin: 0.5rem;
+}
+
+.op-but{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.buttons{
+    margin-left: 0.7rem;
+}
